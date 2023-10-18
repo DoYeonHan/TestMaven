@@ -13,6 +13,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <P>슬아 안녕?</P>
-<img alt="?" src="./image/camera.png">
+<img alt="?" src="./image/original_22.gif">
 </body>
 </html>
